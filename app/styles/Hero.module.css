@@ -1,0 +1,28 @@
+
+.hero {
+    padding: 50px 20px;
+    text-align: center;
+    display: flex;                    
+    flex-direction: column;           
+    align-items: center;              
+    justify-content: center;            
+    background-color: #f9f9f9;       
+    padding: 20px;       
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #0070f3;
+  }
+  
+  .hero p {
+    
+    color: #666;
+    line-height: 1.6;                 
+    text-align: center;               
+    max-width: 750px; 
+  }
+  
+  
+  

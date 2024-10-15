@@ -1,0 +1,36 @@
+
+
+.header {
+    background-color: #0070f3;
+    padding: 20px;
+    text-align: left;
+    
+  }
+  
+  .header h1 {
+    color: #fff;
+    
+  }
+  
+  .nav {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    gap: 30px; 
+  }
+  
+  .navItem {
+    display: inline; 
+  }
+  
+  .navLink {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navLink:hover {
+    text-decoration: underline; 
+  }
+  
